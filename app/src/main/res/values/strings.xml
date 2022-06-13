@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nasa_APOD</string>
+    <string name="button">Button</string>
+    <string name="select_date_for_choice_of_pic">Select date for choice of Pic</string>
+    <string name="calendar">calendar</string>
+    <string name="nasaImage">nasaImage</string>
+</resources>
